@@ -28,10 +28,5 @@
         "desc": "A proto of learning English on Astrbot.",
         "author": "Soulter",
         "repo": "https://github.com/Soulter/astrbot_plugin_english"
-    },
-    "llms": {
-        "desc": "支持 HuggingChat、Gemini。主页: https://github.com/Soulter/llms",
-        "author": "Soulter",
-        "repo": "https://github.com/Soulter/llms"
     }
 }
