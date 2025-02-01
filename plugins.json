@@ -1,4 +1,9 @@
 {
+    "mccloud_site": {
+        "desc": "一个集成了网站测试工具的插件，支持网站连通性测试、速度测试、域名查询、端口扫描和网站截图功能。使用/sitehelp查看帮助。",
+        "author": "MC云-小馒头",
+        "repo": "https://github.com/MCYUNIDC/mccloud_site"
+    },
     "astrbot_plugin_essential": {
         "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
         "author": "Soulter",
