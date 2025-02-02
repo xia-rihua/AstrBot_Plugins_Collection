@@ -38,5 +38,10 @@
         "desc": "A proto of learning English on Astrbot.",
         "author": "Soulter",
         "repo": "https://github.com/Soulter/astrbot_plugin_english"
+    },
+    "astrbot_plugin_dice": {
+        "desc": "一个骰子插件，支持设置面数和检定阈值，输入/dicehelp获取帮助",
+        "author": "scwunai",
+        "repo": "https://github.com/scwunai/Astrobot_Plugin_Dice_scwunai"
     }
 }
