@@ -1,6 +1,6 @@
 {
-    "deepseek-r1-filter": {
-        "desc": "过滤 R1 推理模型的思维链内容",
+    "r1-filter": {
+        "desc": "过滤 DeepSeek R1 推理模型的思维链内容",
         "author": "Soulter",
         "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter"
     },
