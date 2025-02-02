@@ -1,4 +1,9 @@
 {
+    "deepseek-r1-filter": {
+        "desc": "过滤 R1 推理模型的思维链内容",
+        "author": "Soulter",
+        "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter"
+    },
     "mccloud_site": {
         "desc": "一个集成了网站测试工具的插件，支持网站连通性测试、速度测试、域名查询、端口扫描和网站截图功能。使用/sitehelp查看帮助。",
         "author": "MC云-小馒头",
