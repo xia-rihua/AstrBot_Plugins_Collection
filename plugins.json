@@ -49,4 +49,9 @@
         "author": "scwunai",
         "repo": "https://github.com/scwunai/Astrbot_Plugin_Dice_scwunai"
     }
+    "astrbot_plugin_wol": {
+        "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
+        "author": "Camreishi",
+        "repo": "https://github.com/Camreishi/astrbot_plugin_wol"
+    }
 }
