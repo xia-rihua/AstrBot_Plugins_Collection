@@ -14,6 +14,11 @@
         "author": "kjqwdw",
         "repo": "https://github.com/kjqwer/astrbot_plugin_sy"
     },
+    "ai_memory": {
+        "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
+        "author": "kjqwdw",
+        "repo": "https://github.com/kjqwer/strbot_plugin_play_sy"
+    },
     "astrbot_plugin_essential": {
         "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
         "author": "Soulter",
