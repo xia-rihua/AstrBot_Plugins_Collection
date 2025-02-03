@@ -58,5 +58,10 @@
         "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
         "author": "Camreishi",
         "repo": "https://github.com/Camreishi/astrbot_plugin_wol"
+    },
+    "astrbot_plugin_lolicon_image": {
+        "desc": "lolicon 瑟图插件，/setu_help 查看帮助",
+        "author": "rikka",
+        "repo": "https://github.com/rikkamiss/astrbot_plugin_lolicon_image"
     }
 }
