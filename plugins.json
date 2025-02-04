@@ -1,4 +1,9 @@
 {
+    "mccloud_zhipu_img": {
+        "desc": "使用智谱AI生成图片。使用 /aimg <提示词> [大小] 生成图片。需要配置哦！",
+        "author": "MC云-小馒头",
+        "repo": "https://github.com/MCYUNIDC/mccloud_zhipu_img"
+    },
     "mccloud_img": {
         "desc": "一个从API获取图片的插件，支持自定义API地址。使用 /img 获取图片。配置可填https://api.lolicon.app/setu/v2 *图二次元的获取。 ",
         "author": "MC云-小馒头",
