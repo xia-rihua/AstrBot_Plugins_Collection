@@ -44,6 +44,11 @@
         "author": "Soulter",
         "repo": "https://github.com/Soulter/astrbot_plugin_telegram"
     },
+    "astrbot_plugin_wecom": {
+        "desc": "接入 企业微信 的插件",
+        "author": "Soulter",
+        "repo": "https://github.com/Soulter/astrbot_plugin_wecom"
+    },
     "astrbot_plugin_leetcode": {
         "desc": "leetcode 每日一题、随机题目。",
         "author": "Soulter",
