@@ -1,6 +1,6 @@
 {
     "mccloud_img": {
-        "desc": "一个从API获取图片的插件，支持自定义API地址。使用 /img 获取图片。配置可填https://api.lolicon.app/setu/v2 色图获取。 ",
+        "desc": "一个从API获取图片的插件，支持自定义API地址。使用 /img 获取图片。配置可填https://api.lolicon.app/setu/v2 *图二次元的获取。 ",
         "author": "MC云-小馒头",
         "repo": "https://github.com/MCYUNIDC/mccloud_img"
     },
