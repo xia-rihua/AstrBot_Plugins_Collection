@@ -78,7 +78,7 @@
         "desc": "lolicon 瑟图插件，/setu_help 查看帮助",
         "author": "rikka",
         "repo": "https://github.com/rikkamiss/astrbot_plugin_lolicon_image"
-    }
+    },
     "astrbot_plugin_SDGen": {
         "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
         "author": "buding",
