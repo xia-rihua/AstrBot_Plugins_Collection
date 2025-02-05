@@ -79,4 +79,9 @@
         "author": "rikka",
         "repo": "https://github.com/rikkamiss/astrbot_plugin_lolicon_image"
     }
+    "astrbot_plugin_SDGen": {
+        "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
+        "author": "buding",
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen"
+    }
 }
