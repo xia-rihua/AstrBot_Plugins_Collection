@@ -83,5 +83,10 @@
         "desc": "Stable Diffusion WebUI图片生成插件，/sd help 查看帮助",
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen"
+    },
+    "astrbot_plugin_sysinfo": {
+        "desc": "获取当前系统状态",
+        "author": "mika",
+        "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_sysinfo"
     }
 }
