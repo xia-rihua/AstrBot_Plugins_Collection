@@ -98,5 +98,10 @@
         "desc": "一个基于 OpenWeatherMap v2.5 API 的天气查询插件",
         "author": "w33d",
         "repo": "https://github.com/Last-emo-boy/astrbot_plugin_weather"
+    },
+    "astrbot_plugin_buckshot_roulette": {
+        "desc": "一个好玩的简单恶魔轮盘",
+        "author": "w33d",
+        "repo": "https://github.com/Last-emo-boy/astrbot_plugin_buckshot_roulette/"
     }
 }
