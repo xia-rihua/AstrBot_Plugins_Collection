@@ -1,9 +1,9 @@
+{
     "sauceno_search": {
         "desc": "Sauceno搜图插件，使用/搜图 指令搜图",
         "author": "榛子小猹猹",
         "repo": "https://github.com/Hazellol/astrbot_plugin_sauceno"
     },
-{
     "astrbot_plugin_blacklist": {
         "desc": "黑名单插件，禁止用户和 AstrBot 交互，适用于 aiocqhttp, gewechat",
         "author": "大核桃",
