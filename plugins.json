@@ -6,8 +6,8 @@
     },
     "astrbot_plugin_blacklist": {
         "desc": "黑名单插件，禁止用户和 AstrBot 交互，适用于 aiocqhttp, gewechat",
-        "author": "大核桃",
-        "repo": "https://github.com/AstrBot-Devs/astrbot_plugin_blacklist"
+        "author": "水蜜桃",
+        "repo": "https://github.com/dahetaoa/AstrBot-ban-Plugins"
     },
     "mccloud_zhipu_img": {
         "desc": "使用智谱AI生成图片。使用 /aimg <提示词> [大小] 生成图片。需要配置哦！",
