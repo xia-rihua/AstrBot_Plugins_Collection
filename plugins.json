@@ -79,6 +79,11 @@
         "author": "scwunai",
         "repo": "https://github.com/scwunai/Astrbot_Plugin_Dice_scwunai"
     },
+    "astrbot_plugin_haos": {
+        "desc": "这是简单的请求HAOSApi以获取HomeAssistant内注册的温湿度传感器数据的插件。输入/haoshelp获取帮助。请先根据帮助描述完成配置文件的配置填写后使用",
+        "author": "scwunai",
+        "repo": "https://github.com/scwunai/Astrbot_Plugin_HAOS_scwunai"
+    },
     "astrbot_plugin_wol": {
         "desc": "局域网 WOL 唤醒插件，/wolhelp 查看帮助",
         "author": "Camreishi",
