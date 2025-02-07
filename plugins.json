@@ -15,9 +15,9 @@
         "repo": "https://github.com/MashiroSaber03/lottery"
      },
     "lottery": {
-        "desc": "原神关键词检测插件，检测到`原神`关键词自动发送圣经",
+        "desc": "原神关键词检测插件，检测到`原神`关键词自动发送一条圣经",
         "author": "ましろSaber",
-        "repo": "https://github.com/MashiroSaber03/genshin"
+        "repo": "https://github.com/MashiroSaber03/genshinimpact"
     },
     "astrbot_plugin_blacklist": {
         "desc": "黑名单插件，禁止用户和 AstrBot 交互，适用于 aiocqhttp, gewechat",
