@@ -1,4 +1,9 @@
 {
+    "mccloud_meme_sender": {
+        "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
+        "author": "MC云-小馒头",
+        "repo": "https://github.com/MCYUNIDC/mccloud_meme_sender"
+    },
     "sauceno_search": {
         "desc": "Sauceno搜图插件，使用/搜图 指令搜图",
         "author": "榛子小猹猹",
