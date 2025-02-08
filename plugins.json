@@ -172,6 +172,6 @@
     "FateTrial_JMdownloader": {
         "desc": "一个下载JM漫画的插件，请勿用于违法用途",
         "author": "FateTrial",
-        "repo": "https://github.com/FateTrial/FateTrial_JMdownloader/tree/main"
+        "repo": "https://github.com/FateTrial/FateTrial_JMdownloader"
     }
 }
