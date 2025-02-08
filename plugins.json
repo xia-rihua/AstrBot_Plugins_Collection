@@ -11,7 +11,7 @@
      },
     "lottery": {
         "desc": "抓阄插件，使用/抓阄 指令抓阄，教程https://github.com/MashiroSaber03/lottery",
-        "author": "ましろSaber",
+        "author": "ましろSaber", 
         "repo": "https://github.com/MashiroSaber03/lottery"
      },
     "lottery": {
