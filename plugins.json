@@ -168,7 +168,7 @@
         "desc": "让机器人无视QQ的@全体成员,以及提供一个@唤醒机器人的开关",
         "author": "Cl_Fu",
         "repo": "https://github.com/clfpwp/astrbot_plugin_ignore_at"
-    }
+    },
     "FateTrial_JMdownloader": {
         "desc": "一个下载JM漫画的插件，请勿用于违法用途",
         "author": "FateTrial",
