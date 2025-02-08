@@ -183,5 +183,10 @@
         "desc": "涩图插件2.0基于，原作者rikkamiss插件进行修改，使机器人可以发送R18图片",
         "author": "FateTrial",
         "repo": "https://github.com/FateTrial/astrbot_plugin_lolicon_image-master"
+    },
+    "astrbot_plugin_lolicon_image-master": {
+        "desc": "牛牛插件，一个污污的小游戏插件，安装后自动启用，发送牛牛菜单获取帮助",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_niuniu"
     }
 }
