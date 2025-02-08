@@ -158,5 +158,9 @@
         "desc": "这是能让机器人随机发表情包的插件，可手动添加表情包，表情包路径在AstrBot/data/meme/下",
         "author": "LunarMeal",
         "repo": "https://github.com/LunarMeal/astrbot_plugin_memes"
-    }
+    }，
+    "astrbot_plugin_messages": {
+        "desc": "让机器人无视QQ的@全体成员",
+        "author": "Cl_Fu",
+        "repo": "https://github.com/clfpwp/astrbot_plugin_messages"
 }
