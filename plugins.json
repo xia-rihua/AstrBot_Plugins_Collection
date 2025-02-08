@@ -164,9 +164,9 @@
         "author": "LunarMeal",
         "repo": "https://github.com/LunarMeal/astrbot_plugin_memes"
     },
-    "astrbot_plugin_ignore-Aall": {
-        "desc": "让机器人无视QQ的@全体成员",
+    "astrbot_plugin_ignore_at": {
+        "desc": "让机器人无视QQ的@全体成员,以及提供一个@唤醒机器人的开关",
         "author": "Cl_Fu",
-        "repo": "https://github.com/clfpwp/astrbot_plugin_ignore-ATall"
+        "repo": "https://github.com/clfpwp/astrbot_plugin_ignore_at"
     }
 }
