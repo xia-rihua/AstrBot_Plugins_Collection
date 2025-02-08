@@ -153,5 +153,10 @@
         "desc": "硅基流动api语音合成",
         "author": "第九位魔神",
         "repo": "https://github.com/cyber-moshen/astrbot_plugin_VITS"
+    },
+    "astrbot_plugin_memes": {
+        "desc": "这是能让机器人随机发表情包的插件，可手动添加表情包，表情包路径在AstrBot/data/meme/下",
+        "author": "LunarMeal",
+        "repo": "https://github.com/LunarMeal/astrbot_plugin_memes"
     }
 }
