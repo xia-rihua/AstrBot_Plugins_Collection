@@ -168,10 +168,15 @@
         "desc": "让机器人无视QQ的@全体成员,以及提供一个@唤醒机器人的开关",
         "author": "Cl_Fu",
         "repo": "https://github.com/clfpwp/astrbot_plugin_ignore_at"
-   },
+    },
     "astrbot_plugin_error_filter": {
         "desc": "选择是否过滤机器人的错误回复",
         "author": "LuffyLSX",
         "repo": "https://github.com/LuffyLSX/astrbot_plugin_error_filter"
+    },
+    "FateTrial_JMdownloader": {
+        "desc": "一个下载JM漫画的插件，请勿用于违法用途",
+        "author": "FateTrial",
+        "repo": "https://github.com/FateTrial/FateTrial_JMdownloader"
     }
 }
