@@ -162,5 +162,5 @@
     "astrbot_plugin_messages": {
         "desc": "让机器人无视QQ的@全体成员",
         "author": "Cl_Fu",
-        "repo": "https://github.com/clfpwp/astrbot_plugin_messages"
+        "repo": "https://github.com/clfpwp/astrbot_plugin_ignore-ATall"
 }
