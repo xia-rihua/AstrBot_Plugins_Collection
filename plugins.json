@@ -8,6 +8,16 @@
         "desc": "Sauceno搜图插件，使用/搜图 指令搜图",
         "author": "榛子小猹猹",
         "repo": "https://github.com/Hazellol/astrbot_plugin_sauceno"
+     },
+    "lottery": {
+        "desc": "抓阄插件，使用/抓阄 指令抓阄，教程https://github.com/MashiroSaber03/lottery",
+        "author": "ましろSaber", 
+        "repo": "https://github.com/MashiroSaber03/lottery"
+     },
+    "genshinimpact": {
+        "desc": "原神关键词检测插件，检测到`原神`关键词自动发送一条圣经",
+        "author": "ましろSaber",
+        "repo": "https://github.com/MashiroSaber03/genshinimpact"
     },
     "astrbot_plugin_blacklist": {
         "desc": "黑名单插件，禁止用户和 AstrBot 交互，适用于 aiocqhttp, gewechat",
