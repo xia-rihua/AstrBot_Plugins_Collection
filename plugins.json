@@ -174,4 +174,9 @@
         "author": "FateTrial",
         "repo": "https://github.com/FateTrial/FateTrial_JMdownloader"
     }
+    "astrbot_plugin_lolicon_image-master": {
+        "desc": "涩图插件2.0，基于原作者rikkamiss的插件进行开发，使机器人可以发送R18图片",
+        "author": "FateTrial",
+        "repo": "https://github.com/FateTrial/astrbot_plugin_lolicon_image-master"
+    }
 }
