@@ -209,4 +209,10 @@
         "author": "buding", 
         "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn"
     }
+    "astrbot_plugin_tagger": {
+        "desc": "识别图片并生成AI绘画tag标签",
+        "author": "yudengghost",
+        "repo": "https://github.com/yudengghost/astrbot_plugin_tagger"
+    }
+
 }
