@@ -209,4 +209,9 @@
         "author": "buding", 
         "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn"
     }
+    "FateTrial_zhipu_video": {
+        "desc": "智谱AI视频生成插件",
+        "author": "FateTrial", 
+        "repo": "https://github.com/FateTrial/FateTrial_zhipu_video"
+    }
 }
