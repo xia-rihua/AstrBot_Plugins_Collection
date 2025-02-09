@@ -1,4 +1,9 @@
 {
+    "astrbot_plugin_wake_enhance": {
+        "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
+        "author": "Soulter",
+        "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance"
+    },
     "astrbot_plugin_flux": {
         "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
         "author": "七七七七",
