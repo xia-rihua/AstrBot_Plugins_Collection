@@ -194,4 +194,14 @@
         "author": "Cvandia",
         "repo": "https://github.com/Cvandia/astrbot_plugin_mohoyo_cos"
     }
+    "astrbot_plugin_customT2I": {
+        "desc": "用于在 astrbot 中切换和管理自定义模板",
+        "author": "buding",
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_customT2I"
+    }
+    "astrbot_plugin_anti_porn": {
+        "desc": "用于astrbot的反瑟瑟插件",
+        "author": "buding", 
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn"
+    }
 }
