@@ -3,6 +3,11 @@
         "desc": "可选择是否过滤推理模型的思考内容，仅支持MC云API。购买MC云服务器云电脑可享受免费API不限制支持deepseek-r1 v3模型。https://idc.stay33.cn/",
         "author": "MC云-小馒头",
         "repo": "https://github.com/MCYUNIDC/mccloud_deepseek"
+
+    "astrbot_plugin_flux": {
+        "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
+        "author": "七七七七",
+        "repo": "https://github.com/18005575/astrbot_plugin_flux"
     },
     "mccloud_meme_sender": {
         "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
