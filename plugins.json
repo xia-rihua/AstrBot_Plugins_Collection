@@ -44,6 +44,11 @@
         "author": "Soulter",
         "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter"
     },
+    "mccloud_deepseek": {
+        "desc": "可选择是否过滤推理模型的思考内容，仅支持MC云API。购买MC云服务器云电脑可享受免费API不限制支持deepseek-r1 v3模型。https://idc.stay33.cn/  [版本要求 >= v3.4.17]",
+        "author": "MC云-小馒头",
+        "repo": "https://github.com/MCYUNIDC/mccloud_deepseek"
+    },
     "mccloud_site": {
         "desc": "一个集成了网站测试工具的插件，支持网站连通性测试、速度测试、域名查询、端口扫描和网站截图功能。使用/sitehelp查看帮助。",
         "author": "MC云-小馒头",
@@ -208,7 +213,7 @@
         "desc": "用于astrbot的反瑟瑟插件",
         "author": "buding", 
         "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn"
-    }
+    },
     "FateTrial_zhipu_video": {
         "desc": "智谱AI视频生成插件",
         "author": "FateTrial", 
