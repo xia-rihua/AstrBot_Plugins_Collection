@@ -1,4 +1,9 @@
 {
+    "astrbot_plugin_flux": {
+        "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
+        "author": "七七七七",
+        "repo": "https://github.com/18005575/astrbot_plugin_flux"
+    },
     "mccloud_meme_sender": {
         "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
         "author": "MC云-小馒头",
@@ -178,10 +183,30 @@
         "desc": "一个下载JM漫画的插件，请勿用于违法用途",
         "author": "FateTrial",
         "repo": "https://github.com/FateTrial/FateTrial_JMdownloader"
-    }
+    },
     "astrbot_plugin_lolicon_image-master": {
-        "desc": "涩图插件2.0，基于原作者rikkamiss的插件进行开发，使机器人可以发送R18图片",
+        "desc": "涩图插件2.0基于，原作者rikkamiss插件进行修改，使机器人可以发送R18图片",
         "author": "FateTrial",
         "repo": "https://github.com/FateTrial/astrbot_plugin_lolicon_image-master"
+    },
+    "astrbot_plugin_niuniu": {
+        "desc": "牛牛插件，一个污污的小游戏插件，安装后自动启用，发送牛牛菜单获取帮助",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_niuniu"
+    },
+    "astrbot_plugin_mohoyo_cos": {
+        "desc": "获取米游社社区cos插件，支持LLM自识别",
+        "author": "Cvandia",
+        "repo": "https://github.com/Cvandia/astrbot_plugin_mohoyo_cos"
+    },
+    "astrbot_plugin_customT2I": {
+        "desc": "用于在 astrbot 中切换和管理自定义模板",
+        "author": "buding",
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_customT2I"
+    },
+    "astrbot_plugin_anti_porn": {
+        "desc": "用于astrbot的反瑟瑟插件",
+        "author": "buding", 
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn"
     }
 }
