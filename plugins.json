@@ -49,6 +49,11 @@
         "author": "MC云-小馒头",
         "repo": "https://github.com/MCYUNIDC/mccloud_site"
     },
+     "astrbot_websitetool": {
+        "desc": "mccloud_site的修复版，解决了QQ识别不到的问题。使用说明与mccloud_site一样",
+        "author": "wxgl",
+        "repo": "https://github.com/wxgl/astrbot_websitetool"
+    },
     "ai_reminder": {
         "desc": "智能定时任务,可以看做是高级提醒，可以让ai在特定时间执行特定任务,注意禁用原提醒插件",
         "author": "kjqwdw",
