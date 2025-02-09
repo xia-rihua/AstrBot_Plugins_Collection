@@ -1,6 +1,6 @@
 {
-    "mccloud_meme_sender": {
-        "desc": "文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
+    "astrbot_plugin_flux": {
+        "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
         "author": "七七七七",
         "repo": "https://github.com/18005575/astrbot_plugin_flux"
     },
