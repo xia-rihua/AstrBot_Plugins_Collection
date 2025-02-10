@@ -1,4 +1,9 @@
-{   
+{  
+    "mccloud_command": {
+        "desc": "用于修改插件命令的工具，支持备份和恢复，仅限管理员使用。/cmd 查看帮助",
+        "author": "MC云-小馒头",
+        "repo": "https://github.com/MCYUNIDC/mccloud_command"
+    },
     "astrbot_plugin_music-search": {
         "desc": "让你的bot能够搜索歌曲并点歌的插件",
         "author": "榛子小猹猹",
