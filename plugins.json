@@ -233,5 +233,10 @@
         "desc": "识别图片并生成AI绘画tag标签",
         "author": "yudengghost",
         "repo": "https://github.com/yudengghost/astrbot_plugin_tagger"
+    },
+    "astrbot_plugin_RG": {
+        "desc": "俄罗斯轮盘，群小游戏插件，通过装填[可带参数]、射爆，等指令控制，具体可看说明文档",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_RG"
     }
 }
