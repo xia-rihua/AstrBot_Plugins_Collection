@@ -243,5 +243,10 @@
         "desc": "俄罗斯轮盘，群小游戏插件，通过装填[可带参数]、射爆，等指令控制，具体可看说明文档",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_RG"
+    },
+    "astrbot_plugin_token_calculator": {
+        "desc": "计算并显示每次对话消耗的token，部分provider可用",
+        "author": "rinen0721",
+        "repo": "https://github.com/rinen0721/astrbot_plugin_token_calculator"
     }
 }
