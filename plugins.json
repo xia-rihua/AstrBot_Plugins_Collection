@@ -1,4 +1,8 @@
-{
+{   "astrbot_plugin_moreVITS ": {
+        "desc": "硅基流动利用用户的参考音频进行文本转语音的功能，测试中音频文件（测试用的.mp3）可用，内置了一个测试用的三月七（填写api就可用）",
+        "author": "达莉娅",
+        "repo": "https://github.com/zhenli12138/astrbot_plugin_moreVITS"
+    },
     "astrbot_plugin_wake_enhance": {
         "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
         "author": "Soulter",
