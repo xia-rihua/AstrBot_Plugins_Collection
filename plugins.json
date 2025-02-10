@@ -1,4 +1,9 @@
 {
+    "astrbot_plugin_wake_enhance": {
+        "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
+        "author": "Soulter",
+        "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance"
+    },
     "astrbot_plugin_flux": {
         "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
         "author": "七七七七",
@@ -43,6 +48,11 @@
         "desc": "过滤 DeepSeek R1 推理模型的思维链内容 [版本要求 >= v3.4.17]",
         "author": "Soulter",
         "repo": "https://github.com/Soulter/astrbot_plugin_r1_filter"
+    },
+    "mccloud_deepseek": {
+        "desc": "可选择是否过滤推理模型的思考内容，仅支持MC云API。购买MC云服务器云电脑可享受免费API不限制支持deepseek-r1 v3模型。https://idc.stay33.cn/  [版本要求 >= v3.4.17]",
+        "author": "MC云-小馒头",
+        "repo": "https://github.com/MCYUNIDC/mccloud_deepseek"
     },
     "mccloud_site": {
         "desc": "一个集成了网站测试工具的插件，支持网站连通性测试、速度测试、域名查询、端口扫描和网站截图功能。使用/sitehelp查看帮助。",
@@ -213,5 +223,15 @@
         "desc": "用于astrbot的反瑟瑟插件",
         "author": "buding", 
         "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn"
+    },
+    "FateTrial_zhipu_video": {
+        "desc": "智谱AI视频生成插件",
+        "author": "FateTrial", 
+        "repo": "https://github.com/FateTrial/FateTrial_zhipu_video"
+    },
+    "astrbot_plugin_tagger": {
+        "desc": "识别图片并生成AI绘画tag标签",
+        "author": "yudengghost",
+        "repo": "https://github.com/yudengghost/astrbot_plugin_tagger"
     }
 }
