@@ -253,5 +253,10 @@
         "desc": "计算并显示每次对话消耗的token，部分provider可用",
         "author": "rinen0721",
         "repo": "https://github.com/rinen0721/astrbot_plugin_token_calculator"
+    },
+    "astrbot_plugin_qna": {
+        "desc": "自动识别群聊提问并解答",
+        "author": "buding",
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_qna"
     }
 }
