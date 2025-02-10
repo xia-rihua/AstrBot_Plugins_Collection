@@ -1,4 +1,4 @@
-{
+{   
     "astrbot_plugin_wake_enhance": {
         "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
         "author": "Soulter",
@@ -8,6 +8,11 @@
         "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
         "author": "七七七七",
         "repo": "https://github.com/18005575/astrbot_plugin_flux"
+    },
+    "astrbot_plugin_moreVITS ": {
+        "desc": "硅基流动利用用户的参考音频进行文本转语音的功能，测试中音频文件（测试用的.mp3）可用，内置了一个测试用的三月七（填写api就可用）",
+        "author": "达莉娅",
+        "repo": "https://github.com/zhenli12138/astrbot_plugin_moreVITS"
     },
     "mccloud_meme_sender": {
         "desc": "这是一个表情包发送插件，可以识别AI回复中的表情符号并发送对应的表情包。记得看帮助需要配置人格 地址：https://github.com/MCYUNIDC/mccloud_meme_sender",
