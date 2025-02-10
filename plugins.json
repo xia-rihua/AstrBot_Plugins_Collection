@@ -1,4 +1,9 @@
 {   
+    "astrbot_plugin_music-search": {
+        "desc": "让你的bot能够搜索歌曲并点歌的插件",
+        "author": "榛子小猹猹",
+        "repo": "https://github.com/Hazellol/astrbot_plugin_music-search"
+    },
     "astrbot_plugin_wake_enhance": {
         "desc": "【唤醒增强】让 AstrBot 支持通过正则匹配唤醒机器人、唤醒后持续与机器人对话交互。",
         "author": "Soulter",
