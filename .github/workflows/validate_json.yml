@@ -1,0 +1,22 @@
+name: Validate plugin.json
+
+on:
+  push:
+    paths:
+      - 'plugin.json'
+  pull_request:
+    paths:
+      - 'plugin.json'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Validate plugin.json format
+        run: |
+          sudo apt-get install jq
+          jq . plugin.json
