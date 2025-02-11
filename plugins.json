@@ -263,5 +263,10 @@
         "desc": "自动识别群聊提问并解答",
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_qna"
+    },
+    "astrbot_plugin_waiter": {
+        "desc": "用于开发者的对话管理插件",
+        "author": "Cvandia",
+        "repo": "https://github.com/Cvandia/astrbot_plugin_waiter"
     }
 }
