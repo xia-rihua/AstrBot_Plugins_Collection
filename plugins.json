@@ -19,6 +19,11 @@
         "author": "Soulter",
         "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance"
     },
+    "astrbot_plugin_uptime": {
+        "desc": "Uptime bot. 监测所订阅的站点是否可正常访问，异常时发出警报。",
+        "author": "Soulter",
+        "repo": "https://github.com/Soulter/astrbot_plugin_uptime"
+    },
     "astrbot_plugin_flux": {
         "desc": "硅基流动文生图-支持OpenAI标准的格式接入，支持Flux.1-dev模型",
         "author": "七七七七",
