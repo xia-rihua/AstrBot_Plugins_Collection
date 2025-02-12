@@ -94,6 +94,11 @@
         "author": "kjqwdw",
         "repo": "https://github.com/kjqwer/astrbot_plugin_game_sy"
     },
+    "holdem_poker": {
+        "desc": "简单的德州扑克，/poker就可以开玩了",
+        "author": "w33d",
+        "repo": "https://github.com/Last-emo-boy/astrbot_plugin_texas_holdem_poker"
+    },
     "astrbot_plugin_essential": {
         "desc": "随机动漫图片、以图搜番、Minecraft服务器、一言、今天吃什么、群早晚安记录、EPIC喜加一。帮助：https://github.com/Soulter/astrbot_plugin_essential",
         "author": "Soulter",
