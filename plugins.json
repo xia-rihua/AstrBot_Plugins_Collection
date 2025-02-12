@@ -278,5 +278,10 @@
         "desc": "用于开发者的对话管理插件",
         "author": "Cvandia",
         "repo": "https://github.com/Cvandia/astrbot_plugin_waiter"
+    },
+    "astrbot_plugin_public_servant": {
+        "desc": "帮助考公人随时背书的插件(?)",
+        "author": "yudengghost",
+        "repo": "https://github.com/yudengghost/astrbot_plugin_public_servant"
     }
 }
