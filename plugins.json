@@ -288,5 +288,10 @@
         "desc": "帮助考公人随时背书的插件(?)",
         "author": "yudengghost",
         "repo": "https://github.com/yudengghost/astrbot_plugin_public_servant"
+    },
+    "astrbot_plugin_comfyui": {
+        "desc": "利用 LLM 的 function-calling 功能，调用本地启动的 ComfyUI 服务实现文生图功能",
+        "author": "fanfanfan",
+        "repo": "https://github.com/yuan199696/astrbot_plugin_comfyui"
     }
 }
