@@ -294,7 +294,7 @@
         "author": "fanfanfan",
         "repo": "https://github.com/yuan199696/astrbot_plugin_comfyui"
     },
-    "astrbot_plugin_for_sd_webui":{
+    "astrbot_plugin_for_sd_webui": {
         "desc": "使用/draw调用本地（127.0.0.1）的stable diffusion进行文生图",
         "author": "xiewoc",
         "repo": "https://github.com/xiewoc/astrbot_plugin_for_sd_webui"
