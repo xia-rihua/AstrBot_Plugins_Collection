@@ -304,4 +304,9 @@
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_botName"
     }
+    "FateTrial_setucontroller": {
+        "desc": "一个支持自定义涩图属性的插件",
+        "author": "FateTrial",
+        "repo": "https://github.com/FateTrial/setu_controller"
+    }
 }
