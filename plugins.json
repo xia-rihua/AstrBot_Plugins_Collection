@@ -304,4 +304,9 @@
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_botName"
     }
+    "astrbot_plugin_botName":{
+        "desc": "简易签到插件",
+        "author": "枫莹",
+        "repo": "https://github.com/FengYing1314/sign"
+    }
 }
