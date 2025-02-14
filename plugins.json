@@ -308,5 +308,5 @@
         "desc": "Astrbot的tts功能补充（使用Cosyvoice2-0.5b本地模型）",
         "author": "xiewoc",
         "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2"
-    
+    }
 }
