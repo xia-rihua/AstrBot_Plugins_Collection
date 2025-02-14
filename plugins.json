@@ -304,7 +304,7 @@
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_botName"
     }
-    "astrbot_plugin_botName":{
+    "astrbot_plugin_sign":{
         "desc": "一个(有点简陋)的签到插件，支持每日签到、查询签到信息、排行榜等功能。",
         "author": "枫莹",
         "repo": "https://github.com/FengYing1314/astrbot_plugin_sign"
