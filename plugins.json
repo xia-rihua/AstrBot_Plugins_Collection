@@ -303,5 +303,10 @@
         "desc": "bot动态群名片插件,使用请先看插件说明",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_botName"
-    }
+    },
+    "astrbot_plugin_tts_Cosyvoice2": {
+        "desc": "Astrbot的tts功能补充（使用Cosyvoice2-0.5b本地模型）",
+        "author": "xiewoc",
+        "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2"
+    
 }
