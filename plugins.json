@@ -298,7 +298,7 @@
         "desc": "使用/draw调用本地（127.0.0.1）的stable diffusion进行文生图",
         "author": "xiewoc",
         "repo": "https://github.com/xiewoc/astrbot_plugin_for_sd_webui"
-    }   },
+    },
     "astrbot_plugin_botName": {
         "desc": "bot动态群名片插件,使用请先看插件说明",
         "author": "长安某",
