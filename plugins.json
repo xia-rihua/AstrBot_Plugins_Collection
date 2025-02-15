@@ -328,5 +328,10 @@
         "desc": "一个支持自定义涩图属性的插件",
         "author": "FateTrial",
         "repo": "https://github.com/FateTrial/setu_controller"
+    },
+    "astrbot_plugin_web_searcher_pro": {
+        "desc": "基于SearXNG的Web搜索插件",
+        "author": "buding",
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro"
     }
 }
