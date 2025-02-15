@@ -309,6 +309,16 @@
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_botName"
     },
+    "astrbot_plugin_sign": {
+        "desc": "一个(有点简陋)的签到插件，支持每日签到、查询签到信息、排行榜等功能。",
+        "author": "枫莹",
+        "repo": "https://github.com/FengYing1314/astrbot_plugin_sign"
+    },
+    "astrbot_plugin_token_auto": {
+        "desc": "更好的管理token,防止token消耗过多",
+        "author": "枫莹",
+        "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto"
+    },
     "FateTrial_setucontroller": {
         "desc": "一个支持自定义涩图属性的插件",
         "author": "FateTrial",
