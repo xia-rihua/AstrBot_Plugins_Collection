@@ -1,5 +1,5 @@
 {    
-    "astrbot_plugin_ddz ": {
+    "astrbot_plugin_ddz": {
         "desc": "斗地主游戏插件，发【/斗地主】查看游戏菜单",
         "author": "达莉娅",
         "repo": "https://github.com/zhenli12138/astrbot_plugin_ddz"
