@@ -309,6 +309,11 @@
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_botName"
     },
+    "astrbot_plugin_tts_Cosyvoice2": {
+        "desc": "Astrbot的tts功能补充（使用Cosyvoice2-0.5b本地模型）",
+        "author": "xiewoc",
+        "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2"
+    },
     "astrbot_plugin_sign": {
         "desc": "一个(有点简陋)的签到插件，支持每日签到、查询签到信息、排行榜等功能。",
         "author": "枫莹",
