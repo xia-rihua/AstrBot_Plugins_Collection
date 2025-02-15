@@ -1,4 +1,9 @@
-{
+{    
+    "astrbot_plugin_ddz": {
+        "desc": "斗地主游戏插件，发【/斗地主】查看游戏菜单",
+        "author": "达莉娅",
+        "repo": "https://github.com/zhenli12138/astrbot_plugin_ddz"
+    },
     "astrbot_plugin_meme_manager": {
         "desc": "支持表情包上传的表情包管理器. 点击帮助查看详细指令与修改.",
         "author": "anka",
