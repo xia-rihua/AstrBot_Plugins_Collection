@@ -338,5 +338,10 @@
         "desc": "基于SearXNG的Web搜索插件",
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro"
+    },
+    "astrbot_plugin_memeify":{
+        "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
+        "author": "lxfight",
+        "repo": "https://github.com/lxfight/astrbot_plugin_memeify"
     }
 }
