@@ -199,6 +199,11 @@
         "author": "w33d",
         "repo": "https://github.com/Last-emo-boy/astrbot_plugin_github_tracker"
     },
+    "astrbot_plugin_exchange_rate": {
+        "desc": "一个查询汇率的工具",
+        "author": "w33d",
+        "repo": "https://github.com/Last-emo-boy/astrbot_plugin_exchange_rate"
+    },
     "astrbot_plugin_cloudmusic": {
         "desc": "网易云音乐搜索、热评。并且支持了大模型函数调用工具。请说 `搜下春日影这首歌`。其他指令请看帮助",
         "author": "ave_mujica-saki",
