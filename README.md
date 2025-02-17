@@ -16,3 +16,9 @@ AstrBot Plugin 插件集合站，用于在 AstrBot 仪表盘-插件页中作为�
         "repo": "https://github.com/Soulter/astrbot_plugin_essential"
       }
       ```
+
+   可选属性：
+   - `social_link`: 将会在作者名上作为可点击的链接
+   - `tags`: 列表。插件的标签。如`tags: ["bilibili"]`
+
+   
