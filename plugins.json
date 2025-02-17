@@ -1,4 +1,14 @@
 {    
+    "astrbot_plugin_moreapi": {
+        "desc": "各种api调用，发【/api】看菜单",
+        "author": "达莉娅",
+        "repo": "https://github.com/zhenli12138/astrbot_plugin_moreapi"
+    },    
+    "astrbot_plugin_emojiproduction": {
+        "desc": "gif表情包制作，发【/表情包制作】看菜单",
+        "author": "达莉娅",
+        "repo": "https://github.com/zhenli12138/astrbot_plugin_emojiproduction"
+    },    
     "astrbot_plugin_ddz": {
         "desc": "斗地主游戏插件，发【/斗地主】查看游戏菜单",
         "author": "达莉娅",
