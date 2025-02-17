@@ -343,5 +343,10 @@
         "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
         "author": "lxfight",
         "repo": "https://github.com/lxfight/astrbot_plugin_memeify"
+    },
+    "astrbot_plugin_AW":{
+        "desc": "群老婆插件，记得点右上角帮助查看readme",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_AW"
     }
 }
