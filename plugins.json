@@ -199,6 +199,11 @@
         "author": "w33d",
         "repo": "https://github.com/Last-emo-boy/astrbot_plugin_github_tracker"
     },
+    "astrbot_plugin_exchange_rate": {
+        "desc": "一个查询汇率的工具",
+        "author": "w33d",
+        "repo": "https://github.com/Last-emo-boy/astrbot_plugin_exchange_rate"
+    },
     "astrbot_plugin_cloudmusic": {
         "desc": "网易云音乐搜索、热评。并且支持了大模型函数调用工具。请说 `搜下春日影这首歌`。其他指令请看帮助",
         "author": "ave_mujica-saki",
@@ -308,5 +313,40 @@
         "desc": "bot动态群名片插件,使用请先看插件说明",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_botName"
+    },
+    "astrbot_plugin_tts_Cosyvoice2": {
+        "desc": "Astrbot的tts功能补充（使用Cosyvoice2-0.5b本地模型）",
+        "author": "xiewoc",
+        "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2"
+    },
+    "astrbot_plugin_sign": {
+        "desc": "一个(有点简陋)的签到插件，支持每日签到、查询签到信息、排行榜等功能。",
+        "author": "枫莹",
+        "repo": "https://github.com/FengYing1314/astrbot_plugin_sign"
+    },
+    "astrbot_plugin_token_auto": {
+        "desc": "更好的管理token,防止token消耗过多",
+        "author": "枫莹",
+        "repo": "https://github.com/FengYing1314/astrbot_plugin_token_auto"
+    },
+    "FateTrial_setucontroller": {
+        "desc": "一个支持自定义涩图属性的插件",
+        "author": "FateTrial",
+        "repo": "https://github.com/FateTrial/setu_controller"
+    },
+    "astrbot_plugin_web_searcher_pro": {
+        "desc": "基于SearXNG的Web搜索插件",
+        "author": "buding",
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro"
+    },
+    "astrbot_plugin_memeify":{
+        "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
+        "author": "lxfight",
+        "repo": "https://github.com/lxfight/astrbot_plugin_memeify"
+    },
+    "astrbot_plugin_AW":{
+        "desc": "群老婆插件，记得点右上角帮助查看readme",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_AW"
     }
 }
