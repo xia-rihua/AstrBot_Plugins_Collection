@@ -358,5 +358,10 @@
         "desc": "群老婆插件，记得点右上角帮助查看readme",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_AW"
+    },
+    "astrbot_plugin_mnemosyne":{
+        "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
+        "author": "lxfight",
+        "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne"
     }
 }
