@@ -369,4 +369,9 @@
         "author": "lxfight",
         "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne"
     }
+    "FateTrial_img_identify": {
+        "desc": "智谱AI图像识别插件",
+        "author": "FateTrial",
+        "repo": "https://github.com/FateTrial/FateTrial_img_identify"
+    },
 }
