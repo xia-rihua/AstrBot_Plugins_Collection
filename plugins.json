@@ -34,6 +34,11 @@
         "author": "Soulter",
         "repo": "https://github.com/Soulter/astrbot_plugin_wake_enhance"
     },
+    "astrbot_plugin_safebooru": {
+        "desc": "/safebooru + tag = 好看的图，",
+        "author": "w33d",
+        "repo": "https://github.com/Last-emo-boy/astrbot_plugin_safebooru"
+    },
     "astrbot_plugin_uptime": {
         "desc": "Uptime bot. 监测所订阅的站点是否可正常访问，异常时发出警报。",
         "author": "Soulter",
