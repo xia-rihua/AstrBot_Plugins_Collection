@@ -368,5 +368,10 @@
         "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
         "author": "lxfight",
         "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne"
+    },
+    "FateTrial_img_identify": {
+        "desc": "智谱AI图像识别插件",
+        "author": "FateTrial",
+        "repo": "https://github.com/FateTrial/FateTrial_img_identify"
     }
 }
