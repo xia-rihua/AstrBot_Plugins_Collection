@@ -393,5 +393,10 @@
         "desc": "用于AstrBot的复读机插件",
         "author": "FengYing",
         "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition"
+    },
+    "astrbot_plugin_aliyun_censor": {
+        "desc": "为bot启用阿里云内容安全审核",
+        "author": "Raven95676",
+        "repo": "https://github.com/Raven95676/astrbot_plugin_aliyun_censor"
     }
 }
