@@ -383,5 +383,10 @@
         "desc": "用于AstrBot的shell远程执行器",
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_shell_executor"
+    },
+    "astrbot_plugin_pock": {
+        "desc": "astrbot戳一戳监听",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_pock"
     }
 }
