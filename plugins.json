@@ -384,6 +384,11 @@
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_shell_executor"
     },
+    "astrbot_plugin_pock": {
+        "desc": "astrbot戳一戳监听",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_pock"
+    },
     "astrbot_plugin_astrbot_plugin_repetition": {
         "desc": "用于AstrBot的复读机插件",
         "author": "FengYing",
