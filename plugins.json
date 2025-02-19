@@ -383,5 +383,10 @@
         "desc": "用于AstrBot的shell远程执行器",
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_shell_executor"
+    },
+    "astrbot_plugin_astrbot_plugin_repetition": {
+        "desc": "用于AstrBot的复读机插件",
+        "author": "FengYing",
+        "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition"
     }
 }
