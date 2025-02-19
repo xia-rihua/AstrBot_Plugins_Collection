@@ -1,14 +1,19 @@
-{    
+{
+    "astrbot_plugin_blue_archive": {
+        "desc": "蔚蓝档案攻略查询 - 指令格式：攻略查询 <攻略名称>",
+        "author": "anka",
+        "repo": "https://github.com/anka-afk/astrbot_plugin_blue_archive"
+    },
     "astrbot_plugin_moreapi": {
         "desc": "各种api调用，发【/api】看菜单",
         "author": "达莉娅",
         "repo": "https://github.com/zhenli12138/astrbot_plugin_moreapi"
-    },    
+    },
     "astrbot_plugin_emojiproduction": {
         "desc": "gif表情包制作，发【/表情包制作】看菜单",
         "author": "达莉娅",
         "repo": "https://github.com/zhenli12138/astrbot_plugin_emojiproduction"
-    },    
+    },
     "astrbot_plugin_ddz": {
         "desc": "斗地主游戏插件，发【/斗地主】查看游戏菜单",
         "author": "达莉娅",
@@ -354,17 +359,17 @@
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro"
     },
-    "astrbot_plugin_memeify":{
+    "astrbot_plugin_memeify": {
         "desc": "一个AstrBot的插件，用于LLM回复表情包的实现",
         "author": "lxfight",
         "repo": "https://github.com/lxfight/astrbot_plugin_memeify"
     },
-    "astrbot_plugin_AW":{
+    "astrbot_plugin_AW": {
         "desc": "群老婆插件，记得点右上角帮助查看readme",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_AW"
     },
-    "astrbot_plugin_mnemosyne":{
+    "astrbot_plugin_mnemosyne": {
         "desc": "一个长期记忆插件，基于milvus数据库实现，详情请见README.md",
         "author": "lxfight",
         "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne"
