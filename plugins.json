@@ -388,5 +388,10 @@
         "desc": "astrbot戳一戳监听",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_pock"
+    },
+    "astrbot_plugin_astrbot_plugin_repetition": {
+        "desc": "用于AstrBot的复读机插件",
+        "author": "FengYing",
+        "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition"
     }
 }
