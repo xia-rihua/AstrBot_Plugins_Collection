@@ -394,6 +394,16 @@
         "author": "FengYing",
         "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition"
     },
+     "FateTrial_Star_Rail": {
+        "desc": "崩铁查询插件",
+        "author": "FateTrial",
+        "repo": "https://github.com/FateTrial/FateTrial_Star_Rail"
+    },
+    "FateTrial_Genshin": {
+        "desc": "原神查询插件",
+        "author": "FateTrial",
+        "repo": "https://github.com/FateTrial/FateTrial_Genshin"
+    },
     "astrbot_plugin_aliyun_censor": {
         "desc": "为bot启用阿里云内容安全审核",
         "author": "Raven95676",
