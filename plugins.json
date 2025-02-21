@@ -418,5 +418,10 @@
         "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_AIQTalk"
+    },
+    "astrbot_plugin_KeyReply": {
+        "desc": "关键词回复插件",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_KeyReply"
     }
 }
