@@ -403,5 +403,10 @@
         "desc": "基于 OPDS 协议实现电子书搜索下载的插件",
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_opds"
+    },
+    "astrbot_plugin_AIQTal": {
+        "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_AIQTalk"
     }
 }
