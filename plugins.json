@@ -403,5 +403,20 @@
         "desc": "原神查询插件",
         "author": "FateTrial",
         "repo": "https://github.com/FateTrial/FateTrial_Genshin"
+    },
+    "astrbot_plugin_aliyun_censor": {
+        "desc": "为bot启用阿里云内容安全审核",
+        "author": "Raven95676",
+        "repo": "https://github.com/Raven95676/astrbot_plugin_aliyun_censor"
+    },
+    "astrbot_plugin_opds": {
+        "desc": "基于 OPDS 协议实现电子书搜索下载的插件",
+        "author": "buding",
+        "repo": "https://github.com/zouyonghe/astrbot_plugin_opds"
+    },
+    "astrbot_plugin_AIQTalk": {
+        "desc": "基于QQ的AI声聊完成的（伪）TTS转语音",
+        "author": "长安某",
+        "repo": "https://github.com/zgojin/astrbot_plugin_AIQTalk"
     }
 }
