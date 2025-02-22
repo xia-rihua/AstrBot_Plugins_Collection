@@ -423,5 +423,10 @@
         "desc": "关键词回复插件",
         "author": "长安某",
         "repo": "https://github.com/zgojin/astrbot_plugin_KeyReply"
+    },
+    "astrbot_plugin_better_facebread": {
+        "desc": "使llm生成文字后能发送相同情感的表情包",
+        "author": "xiewoc",
+        "repo": "https://github.com/xiewoc/astrbot_plugin_better_facebread"
     }
 }
