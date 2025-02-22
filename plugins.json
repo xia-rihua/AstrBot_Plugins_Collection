@@ -428,5 +428,10 @@
         "desc": "使llm生成文字后能发送相同情感的表情包",
         "author": "xiewoc",
         "repo": "https://github.com/xiewoc/astrbot_plugin_better_facebread"
+    },
+    "astrbot_plugin_setu": {
+        "desc": "Astrbot色图插件，支持自定义配置与标签指定",
+        "author": "Raven95676",
+        "repo": "https://github.com/Raven95676/astrbot_plugin_setu"
     }
 }
